@@ -1,0 +1,166 @@
+/* 
+    Document   : menu
+    Created on : 12/03/2010, 06:40:16 PM
+    Author     : skuarch
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+a.button{
+    background:url(../images/button.gif);
+    display:block;
+    color:#555555;
+    font-weight:bold;
+    height:30px;
+    line-height:29px;
+    margin-bottom:7px;
+    text-decoration:none;
+    width:132px;
+    font-size: 10.5px;
+}
+a:hover.button{
+    /*color:#0066CC;*/
+    color: white;
+}
+
+/* -------------------- */
+/* CLASSES              */
+/* -------------------- */
+
+.list{
+    background:url(../images/list.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+.add{
+    background:url(../images/add.gif) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+.ports{
+    background:url(../images/bars1.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+.conections{
+    background:url(../images/conections.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+.conversations{
+    background:url(../images/conversations.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+.app{
+    background:url(../images/app.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+.delete{
+    background:url(../images/delete.gif) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+.user{
+    background:url(../images/user.gif) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+.alert{
+    background:url(../images/alert.gif) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+.msg{
+    background:url(../images/msg.gif) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+.download{
+    background:url(../images/download.gif) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+.lens{
+    background:url(../images/lens.gif) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+.info{
+    background:url(images/info.gif) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+.configuracion{
+    background:url(../images/config.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+.ajust{
+    background:url(../images/ajust.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+
+.server{
+    background:url(../images/server.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+.alarm{
+    background:url(../images/alarm.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+
+.navigation{
+    background:url(../images/web.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+
+.segments{
+    background:url(../images/segments.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+
+.host{
+    background:url(../images/host.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+.indicators{
+    background:url(../images/indicators.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+
+.e2e{
+    background:url(../images/arrow-out.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}
+
+.filter{
+    background:url(../images/shield.png) no-repeat 10px 8px;
+    text-indent:30px;
+    display:block;
+}

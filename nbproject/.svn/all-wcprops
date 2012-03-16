@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1992/sniffer_web/nbproject
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/sniffer_web/nbproject/project.xml
+END
+ant-deploy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/sniffer_web/nbproject/ant-deploy.xml
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1992/sniffer_web/nbproject/project.properties
+END
+build-impl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1992/sniffer_web/nbproject/build-impl.xml
+END
+genfiles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1992/sniffer_web/nbproject/genfiles.properties
+END

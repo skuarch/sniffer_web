@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://192.168.208.15:8080/e2e/TracerouteService?WSDL" uri="wsdl/192.168.208.15_8080/e2e/TracerouteService.wsdl"/>
+    <system systemId="http://192.168.208.15:8080/e2e/TracerouteService?xsd=1" uri="wsdl/192.168.208.15_8080/e2e/TracerouteService.xsd_1.xsd"/>
+</catalog>
+
